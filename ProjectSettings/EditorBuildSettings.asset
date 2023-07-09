@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Gallery/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Gallery/Scenes/Galery.unity
+    guid: 6de697ae960789e4a82d56d32bd0dfd7
+  - enabled: 1
+    path: Assets/Gallery/Scenes/FullImage.unity
+    guid: cd8f6a2d9dc03fa4e9cabb84a9d045f9
+  - enabled: 1
+    path: Assets/3D/Scenes/GearRotation.unity
+    guid: 1c59cecb098ff1646a4e3db319c85d13
+  m_configObjects: {}
